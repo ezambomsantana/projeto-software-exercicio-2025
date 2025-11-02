@@ -1,4 +1,4 @@
-package br.edu.insper.exercicio.time;
+package br.edu.insper.exercicio.pessoas;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/pessoa")
+@RequestMapping("/pessoas")
 public class PessoaController {
 
     @Autowired

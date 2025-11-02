@@ -1,4 +1,4 @@
-package br.edu.insper.exercicio.time;
+package br.edu.insper.exercicio.pessoas;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

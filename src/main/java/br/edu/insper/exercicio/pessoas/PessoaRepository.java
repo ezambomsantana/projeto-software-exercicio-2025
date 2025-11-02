@@ -1,4 +1,4 @@
-package br.edu.insper.exercicio.time;
+package br.edu.insper.exercicio.pessoas;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

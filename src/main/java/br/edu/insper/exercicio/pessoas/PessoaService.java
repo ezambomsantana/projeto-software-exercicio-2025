@@ -1,4 +1,4 @@
-package br.edu.insper.exercicio.time;
+package br.edu.insper.exercicio.pessoas;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
